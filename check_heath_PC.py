@@ -1,0 +1,2 @@
+import check_amount_disk
+import check_cpu_percent
